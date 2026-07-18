@@ -11,27 +11,33 @@ A production-grade loyalty analytics platform for tracking partner performance, 
 *Secure JWT-authenticated entry point with demo credentials for evaluators.*
 
 ### Executive Overview
-![Executive Overview](./screenshots/dashboard-overview.png)
+![Executive Overview]([./screenshots/dashboard-overview.png](https://raw.githubusercontent.com/Jyotikumari7061/benefitiq-dashboard/main/screenshots/dashboard-overview.png
+))
 *Live KPI tiles, revenue vs target line chart, member segment breakdown, churn risk alerts, and benefit utilization — all on one canvas.*
 
 ### Partner Scoring
-![Partner Scoring](./screenshots/partner-scoring.png)
+![Partner Scoring](https://raw.githubusercontent.com/Jyotikumari7061/benefitiq-dashboard/main/screenshots/partner-scoring.png
+)
 *Sortable partner performance index with composite scoring, tier classification, revenue tracking, and growth indicators.*
 
 ### Negotiation Simulator
-![Negotiation Simulator](./screenshots/negotiation-simulator.png)
+![Negotiation Simulator](https://raw.githubusercontent.com/Jyotikumari7061/benefitiq-dashboard/main/screenshots/negotiation-simulator.png
+)
 *Slider-driven deal modeling with real-time ROI projection, risk scoring, break-even calculation, and AI-backed deal intelligence.*
 
 ### Merchant Insights
-![Merchant Insights](./screenshots/merchant-insights.png)
+![Merchant Insights](https://raw.githubusercontent.com/Jyotikumari7061/benefitiq-dashboard/main/screenshots/merchant-insights.png
+)
 *Emerging merchant radar scanning 1,847 merchants for high-potential integration candidates with growth signals.*
 
 ### Customer Segmentation
-![Customer Segmentation](./screenshots/customer-segmentation.png)
+![Customer Segmentation](https://raw.githubusercontent.com/Jyotikumari7061/benefitiq-dashboard/main/screenshots/customer-segmentation.png
+)
 *AI-clustered loyalty profiles with spend distribution charts, churn risk classification, and segment-level AI recommendations.*
 
 ### AI Recommendation Center
-![AI Recommendations](./screenshots/ai-recommendations.png)
+![AI Recommendations](https://raw.githubusercontent.com/Jyotikumari7061/benefitiq-dashboard/main/screenshots/ai-recommendations.png
+)
 *Confidence-scored, segment-level action recommendations with projected lift metrics and one-click campaign activation.*
 
 ---
