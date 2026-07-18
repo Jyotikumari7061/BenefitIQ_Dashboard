@@ -7,7 +7,7 @@ A production-grade loyalty analytics platform for tracking partner performance, 
 ## Screenshots
 
 ### Login
-![Login Page](./screenshots/login-page.png)
+![Login Page](https://github.com/Jyotikumari7061/benefitiq-dashboard/blob/main/screenshots/login-page.png)
 *Secure JWT-authenticated entry point with demo credentials for evaluators.*
 
 ### Executive Overview
